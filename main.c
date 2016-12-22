@@ -1,9 +1,11 @@
 
-
+#include <stdio.h>
 
 int main() {
 
-	printf("blah");
+	char *myVar;
+	
+	printf("blah \n");
 
-
+	return 0;
 }
